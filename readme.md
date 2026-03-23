@@ -1,4 +1,4 @@
-# humanoid-rl-learning
+# Humanoid-rl-learning
 
 Robotics and reinforcement learning are vast, niche, and deeply complex fields.
 Rather than studying them top-down, I'm learning by doing — tackling hard tasks,
