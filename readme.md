@@ -12,9 +12,11 @@ worked and what didn't.
 
 ## Approach
 
-I learn best by building. So instead of reading textbooks first, I picked a hard
+I learn best by building and doing. So instead of reading textbooks first, I picked a hard
 problem — training a humanoid robot to walk — set up the full pipeline from scratch,
-and worked backwards from what I saw to understand why things behaved the way they did.
+and worked backwards from what I saw to understand why things behaved the way they did. 
+
+In efforts to gather as much information and experience along the way I've been reading online research papers, conversing with AI/ML engineers(online + in person), leveraging LLM's and tracking my progress through my github repo.  
 
 Every concept in this repo was learned in context, not in isolation.
 
