@@ -58,4 +58,4 @@ an option for me right now due to personal circumstances, so this repo is my alt
 If you're working in robotics, RL, or simulation and willing to chat — I'd genuinely
 love to connect. I'm looking for anyone who enjoys talking about this stuff.
 
-[LinkedIn](https://www.linkedin.com/in/michael-nguyen-00a24a300/)
+[Connect with me on LinkedIn!](https://www.linkedin.com/in/michael-nguyen-00a24a300/)
