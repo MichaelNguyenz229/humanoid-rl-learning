@@ -49,3 +49,14 @@ Every concept in this repo was learned in context, not in isolation.
 ## Frameworks Used
 - [mjlab](https://github.com/mujocolab/mjlab)
 - [unitree_rl_mjlab](https://github.com/unitreerobotics/unitree_rl_mjlab)
+
+## Why this exists
+
+Realistically, the best way to learn this field deeply is through a master's program —
+access to mentors, peers, and research you can't easily find on your own. I hope that one day I'm in a situation where I can go back to school, but that's not
+an option for me right now due to personal circumstances, so this repo is my alternative.
+
+If you're working in robotics, RL, or simulation and willing to chat — I'd genuinely
+love to connect. I'm looking for anyone who enjoys talking about this stuff.
+
+[LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/michael-nguyen-00a24a300/))
