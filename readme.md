@@ -26,7 +26,7 @@ Every concept in this repo was learned in context, not in isolation.
 - **Framework:** mjlab + unitree_rl_mjlab
 - **Algorithm:** PPO via rsl-rl
 - **Hardware:** RTX 3070 8GB, WSL2, Ubuntu 22.04 on Windows
-- **Tracking:** Weights & Biases
+- **Tracking:** Weights & Biases (wandb.com)
 
 ---
 
@@ -42,7 +42,6 @@ Every concept in this repo was learned in context, not in isolation.
 ## Notes
 - [`concepts.md`](notes/concepts.md) — RL and robotics concepts explained in my own words
 - [`commands.md`](notes/commands.md) — training, eval, and play command reference
-- [`hardware_limits.md`](notes/hardware_limits.md) — what runs on an RTX 3070 8GB and what doesn't
 
 ---
 
