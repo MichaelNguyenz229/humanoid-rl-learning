@@ -1,13 +1,12 @@
 ## Train Task
 python scripts/train.py [task] --env.scene.num-envs [4096] --video True --video-interval [500] --video-length [150]
-python scripts/train.py Unitree-G1-Tracking --motion_file=src/assets/motions/g1/dance1_subject2.npz --env.scene.num-envs=4096 --video True --video-interval [2000] --video-length [150]
-
-python scripts/train.py Unitree-G1-Tracking-No-State-Estimation --motion_file=src/assets/motions/g1/dance1_subject2.npz --env.scene.num-envs=4096 --video True --video-interval [2000] --video-length [150]
+python scripts/train.py Unitree-G1-Tracking --motion_file=src/assets/motions/g1/dance1_subject2.npz --env.scene.num-envs=4096 --video True --video-interval 5000 --video-length 400
+python scripts/train.py Unitree-G1-Tracking-No-State-Estimation --motion_file=src/assets/motions/g1/dance1_subject2.npz --env.scene.num-envs=4096 --video True --video-interval 5000 --video-length 400
 
 ## Resume Training
-python scripts/train.py [task] --agent.resume True --env.scene.num-envs 4096 --video True --video-interval [500] --video-length [150]
+python scripts/train.py [task] --agent.resume True --env.scene.num-envs 4096 --video True --video-interval 5000 --video-length 400
 
-python scripts/train.py Unitree-G1-Tracking --motion_file=src/assets/motions/g1/g1_c12.npz --agent.resume True --env.scene.num-envs 4096 --video True --video-interval 5000 --video-length 500
+python scripts/train.py Unitree-G1-Tracking-No-State-Estimation --motion_file=src/assets/motions/g1/g1_c12.npz --agent.resume True --env.scene.num-envs 4096 --video True --video-interval 5000 --video-length 400
 
 
 ## View your policy
