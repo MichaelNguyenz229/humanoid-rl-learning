@@ -7,7 +7,9 @@
 — same thing but for pelvis rotation. How much is the pelvis orientation (yaw/pitch/roll) diverging from the reference.
 
 ## ee_body_pos 
-— "end effector body position." This tracks specific body link positions — hands, feet, maybe knees — against where the reference says they should be in world space. Not joint angles, but actual 3D positions of the limbs.
+— "end effector body position." This tracks specific body link positions 
+— hands, feet, maybe knees 
+— against where the reference says they should be in world space. Not joint angles, but actual 3D positions of the limbs.
 
 ## Algorithm changes       
 — PPO vs SAC vs DDPG, changing how gradients are computed, changing the optimizer itself
