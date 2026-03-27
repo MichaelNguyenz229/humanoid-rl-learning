@@ -13,14 +13,14 @@
 
 ## 
 
-## Algorithm changes       
+## Layer 1: Algorithm changes       
 — PPO vs SAC vs DDPG, changing how gradients are computed, changing the optimizer itself
 
-## Hyperparameter tuning   
+## Layer 2: Hyperparameter tuning   
 — learning rate, entropy coef, batch size, clip range — knobs on the algorithm
 
-## Reward shaping           
+## Layer 3: Reward shaping           
 — adding/removing/reweighting reward terms, changing what behavior gets positive signal
 
-## Env tuning               
+## Layer 4: Env tuning               
 — termination thresholds, episode length, domain randomization, observation noise —changing the MDP structure itself
