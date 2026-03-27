@@ -11,6 +11,8 @@
 — hands, feet, maybe knees 
 — against where the reference says they should be in world space. Not joint angles, but actual 3D positions of the limbs.
 
+## 
+
 ## Algorithm changes       
 — PPO vs SAC vs DDPG, changing how gradients are computed, changing the optimizer itself
 
