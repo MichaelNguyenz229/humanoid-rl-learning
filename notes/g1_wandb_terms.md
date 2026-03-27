@@ -24,3 +24,8 @@
 
 ## Layer 4: Env tuning               
 — termination thresholds, episode length, domain randomization, observation noise —changing the MDP structure itself
+
+# Trainig Guidelines
+Env tuning question: "Can the robot even try?"
+Reward tuning question: "Is the robot trying the right thing?"
+Reward shaping question: "Is the robot trying correctly?"
