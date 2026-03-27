@@ -1,0 +1,3 @@
+# anchor_pos — "anchor" refers to the root body, which is the pelvis/hip link. It's the parent of everything else in the kinematic tree. anchor_pos measures how far the robot's pelvis is from where the reference motion says the pelvis should be in world space (XYZ). If the reference says the pelvis should be at x=0.3m forward and the robot's pelvis is at x=0.0m, that's anchor_pos error.
+# anchor_ori — same thing but for pelvis rotation. How much is the pelvis orientation (yaw/pitch/roll) diverging from the reference.
+# ee_body_pos — "end effector body position." This tracks specific body link positions — hands, feet, maybe knees — against where the reference says they should be in world space. Not joint angles, but actual 3D positions of the limbs.
